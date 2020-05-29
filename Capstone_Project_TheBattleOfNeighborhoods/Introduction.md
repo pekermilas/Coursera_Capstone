@@ -18,8 +18,8 @@ and nightlife. [1],[2]
 
 Although there are many magazine articles about the comparison of these two boroughs
 of NYC, finding a quantitative comparison is very hard to find. Threfore, my project
-will be a quantitative comparison of the two areas in terms of types quantities of
-their nearby venues.
+will be a quantitative comparison of the two areas in terms of venue types and 
+their quantities.
 
 
 [1] https://metropolismoving.com/blog/brooklyn-vs-queens/
@@ -27,3 +27,20 @@ their nearby venues.
 [2] https://www.pods.com/blog/2019/03/nyc-moving-guide-the-new-york-city-boroughs-explained/
 
 [3] https://ny.curbed.com/2019/1/29/18200093/move-to-new-york-city-guide-advice
+
+
+## **Data and Usage**
+
+One of the essential elements in my comparison is the venues categorized under 
+'Food' section of foursquare data. By analyzing the food venues data, I intend to infer
+about following features of communities occupying these boroughs;
+
+1. Diversity: Variety of food venue origins in terms of their cuisine (i.e. African
+restaurant, Chines restaurant, etc.) indicate the diversity of the resident community.
+Therefore, segmentation of food venue types can provide a reasonable measure for
+comparing the diversity levels of Brooklyn and Queens.
+
+2. Pace of Life: Type of food venues in terms of their actual physical structure (i.e. 
+restaurant, food track, etc.) may indicate the life style of residents in the area. 
+At a relatively slow pace area one can expect to have more restaurants/cafes than 
+pizza places or food trucks. 
