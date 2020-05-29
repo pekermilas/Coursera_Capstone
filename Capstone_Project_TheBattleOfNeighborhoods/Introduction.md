@@ -35,10 +35,10 @@ their quantities.
 foursquare data. By analyzing the food venues data, I intend to infer about following 
 features of communities occupying these boroughs;
 
-1. **Diversity:** Variety of food venue origins in terms of their cuisine (i.e. African
+<p> 1. **Diversity:** Variety of food venue origins in terms of their cuisine (i.e. African
 restaurant, Chines restaurant, etc.), indicate the diversity of the resident community.
 Therefore, segmentation of food venue types can provide a reasonable measure for
-comparing the diversity levels of Brooklyn and Queens.
+comparing the diversity levels of Brooklyn and Queens.</p> 
 
 2. **Pace of Life:** Type of food venues in terms of their actual physical structure (i.e. 
 restaurant, food track, etc.) may indicate the life style of residents in the area. 
