@@ -23,5 +23,7 @@ their nearby venues.
 
 
 [1] https://metropolismoving.com/blog/brooklyn-vs-queens/
+
 [2] https://www.pods.com/blog/2019/03/nyc-moving-guide-the-new-york-city-boroughs-explained/
+
 [3] https://ny.curbed.com/2019/1/29/18200093/move-to-new-york-city-guide-advice
