@@ -1,6 +1,6 @@
 # Capstone Project
 
-## **Brooklyn vs Queens: A Comparison for new residents**
+## **Brooklyn vs Queens: A Quantitative comparison for new residents**
 
 Having a job in New York City (NYC) and particularly in Manhattan area is
 one of the greatest experiences in life and a huge step in one's 
