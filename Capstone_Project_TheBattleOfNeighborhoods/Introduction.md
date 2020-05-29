@@ -31,12 +31,12 @@ their quantities.
 
 ## **Data and Usage**
 
-One of the essential elements in my work is the comparison of venues categorized under 
-'Food' section of foursquare data. By analyzing the food venues data, I intend to infer
-about following features of communities occupying these boroughs;
+- The project starts with the comparison of venues categorized under 'Food' section of 
+foursquare data. By analyzing the food venues data, I intend to infer about following 
+features of communities occupying these boroughs;
 
 1. **Diversity:** Variety of food venue origins in terms of their cuisine (i.e. African
-restaurant, Chines restaurant, etc.) indicate the diversity of the resident community.
+restaurant, Chines restaurant, etc.), indicate the diversity of the resident community.
 Therefore, segmentation of food venue types can provide a reasonable measure for
 comparing the diversity levels of Brooklyn and Queens.
 
@@ -45,12 +45,12 @@ restaurant, food track, etc.) may indicate the life style of residents in the ar
 At a relatively slow pace area one can expect to have more restaurants/cafes than 
 pizza places or food trucks. 
 
-Another essential element is the comparison of venues categorized under 
-'Art and Entartainment' section of foursquare data. By analyzing the venues data, I 
-intend to infer about availability of social gatherings which will be a measure
-of strength of social interactions for both boroughs.
+- Next comparison will be among venues categorized under 'Art and Entartainment' section 
+of foursquare data. By analyzing the venues data, I intend to infer about availability 
+of social gatherings which will be a measure of strength of social interactions within 
+communities of each boroughs.
 
-As the last element I would like to compare two boroughs with respect to 'Collage and 
+- Lastly, I would like to compare two boroughs with respect to 'Collage and 
 University' venues. Comparison of higher education venues will be a measure of the
 average education levels and so may correlate with the acceptance of a newcomer within
 the resident community.
