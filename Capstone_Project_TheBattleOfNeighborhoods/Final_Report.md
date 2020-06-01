@@ -55,10 +55,40 @@ University' venues. Comparison of higher education venues will be a measure of t
 average education levels and so may correlate with the acceptance of a newcomer within
 the resident community.
 
-## **Results**
+## **Data Analysis Results**
+Brooklyn and Queens are two well-known neighbors of NYC. (Fig 1). Because of their
+proximity I assume traveling to NYC is very similar from any of these boroghs by
+public transportation. I also assume populations of each area is not dramatically
+different. With these said all data analysis code is stored in the following Jupyter
+Notebook;
+
+https://github.com/pekermilas/Coursera_Capstone/blob/master/Capstone_Project_TheBattleOfNeighborhoods/BrooklyVsQueens.ipynb
 
 ![NYC Map](NYC_Map.png)
-*This is a caption*
+*Fig 1. Geographical locations of Brooklyn neighborhoods (blue circles) and 
+Queens neighborhoods (red circles).*
+
+### Analysis of Food Venues
+    1. Both Brooklyn and Queens offer variety of cousins by various
+    restaurant types. (Fig 2 and Fig 3)
+    2. Most common cousins in Brooklyn European and South American originated, while
+    in Queens the dominant cousins are more from Asia. (Fig 2)
+    3. Number of restaurants are slightly higher in Brooklyn than Queens (about 200). (Fig 3)
+    4. In Queens, number of restaurants are very close to the number of non-restaurant
+    type food venues (pizza places, food carts, etc.). (Fig 3)
+    5. In Brooklyn, there are more non-restaurant type food venues than restaurants. (Fig 3)
+    
+### Analysis of Arts & Entertainment Venues
+    1. Number of Arts and Entertainment venues are much higher in Brooklyn than Queens (106 vs 30). (Fig 4)
+    2. While Brooklyn is offering a variety of classic arts based venues such as art galleries
+    and concert halls, Queens is mostly offering social gathering places for entertainment such
+    as bowling alleys and performing arts venues. (Fig 4)
+
+### Analysis of Higher Education Venues
+    1. Number of Education venues in Brooklyn are much highre the number in Queens (54 vs 21). (Fig 5)
+    2. Most of the Higher Education venues in Brooklyn are affliated either with a university
+    or with a college while ones in Queens half of the venues are not affliated with any 
+    university of college. (Fig 5)
 
 [1] https://github.com/pekermilas/Coursera_Capstone/blob/master/Capstone_Project_TheBattleOfNeighborhoods/Introduction.md
 [2] https://github.com/pekermilas/Coursera_Capstone/blob/master/Capstone_Project_TheBattleOfNeighborhoods/NYC_Map.png
