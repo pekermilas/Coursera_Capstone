@@ -54,3 +54,11 @@ communities of each boroughs.
 University' venues. Comparison of higher education venues will be a measure of the
 average education levels and so may correlate with the acceptance of a newcomer within
 the resident community.
+
+## **Results**
+
+![Test Image 1](NYC_Map.png)
+
+[1] https://github.com/pekermilas/Coursera_Capstone/blob/master/Capstone_Project_TheBattleOfNeighborhoods/Introduction.md
+[2] https://github.com/pekermilas/Coursera_Capstone/blob/master/Capstone_Project_TheBattleOfNeighborhoods/NYC_Map.png
+[3] 
