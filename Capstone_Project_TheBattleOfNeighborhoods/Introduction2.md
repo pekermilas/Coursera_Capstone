@@ -57,7 +57,8 @@ the resident community.
 
 ## **Results**
 
-![Test Image 1](NYC_Map.png)
+![NYC Map](NYC_Map.png)
+*This is a caption*
 
 [1] https://github.com/pekermilas/Coursera_Capstone/blob/master/Capstone_Project_TheBattleOfNeighborhoods/Introduction.md
 [2] https://github.com/pekermilas/Coursera_Capstone/blob/master/Capstone_Project_TheBattleOfNeighborhoods/NYC_Map.png
