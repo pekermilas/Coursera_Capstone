@@ -34,6 +34,8 @@ and college & university venues.
 
 ## **Data and Usage**
 
+### Section 1) Analysis of Food Venues
+
 - Food is what we need for living. We prefer some tastes to others, so what we choose 
 to eat tells a lot about our social identity. Therefore, by the analysis of food venues
 I intend to infer about; 
@@ -49,8 +51,10 @@ I intend to infer about;
     2. **Pace of life:** Fast food is a mark in diet for highly mobile and fast pace
     societies. Likewise, the ratio of number of restaurants to the other food locations
     such as food carts or pizza places, is an indicator of the community's life pace.
-    As a result, I believe I can infer about relative pace in Brooklyn and Queens.
+    As a result, I believe I can infer about relative pace in Brooklyn and Queens by 
+    comparing type of food venues in both areas.
     
+### Section 2) Analysis of Arts and Entartainment Venues
 
 - Next comparison will be among venues categorized under 'Art and Entartainment' section 
 of foursquare data. By analyzing the venues data, I intend to infer about availability 
