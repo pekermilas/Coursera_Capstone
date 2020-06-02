@@ -36,9 +36,9 @@ and college & university venues.
 
 ### Section 1) Analysis of Food Venues
 
-- Food is what we need for living. We prefer some tastes to others, so what we choose 
-to eat tells a lot about our social identity. Therefore, by the analysis of food venues
-I intend to infer about; 
+- Food is what people need for living. We prefer some tastes to others, so what we choose 
+to eat tells a lot about our social identity. A community's diversity and its life pace
+are highly correlated with the type of food and food venues its residents demand.
 
     1. **Diversity among residents:** Although in multicultural societies, people tend
     to taste various cousins, essential demand for a particular cousin is originated
@@ -56,15 +56,22 @@ I intend to infer about;
     
 ### Section 2) Analysis of Arts and Entartainment Venues
 
-- Next comparison will be among venues categorized under 'Art and Entartainment' section 
-of foursquare data. By analyzing the venues data, I intend to infer about availability 
-of social gatherings which will be a measure of strength of social interactions within 
-communities of each boroughs.
+- Entertainment styles among communities are somewhat correlated with the overall 
+income and education levels. For example, while watching a soccer game is very popular
+in some communities, visiting an art gallery is a much more desired leisure time activity 
+in some other more developed ones. This is a pronounced difference as a result life styles, 
+which is shaped by education and income levels to a large extent. This is why, I believe
+I can compare relative development levels of Queens and Brooklyn by comparing their 
+arts and entertainment venues.
 
-- Lastly, I would like to compare two boroughs with respect to 'Collage and 
-University' venues. Comparison of higher education venues will be a measure of the
-average education levels and so may correlate with the acceptance of a newcomer within
-the resident community.
+### Section 3) Analysis of College and University Venues
+
+- More often than not the bottleneck for education is the personal income. Income dictates
+the person's mobility and the service she/he can receive from society's institutions. Local 
+institutions in that context, provide service to minimum mobility and often to the lowest 
+cost. Therefore, quality and quantity of local education institutions indicate the level of 
+education among residents in an area. This allow me to compare the average education levels
+of Brooklyn and Queens by analysing college and university venues.
 
 ## **Data Analysis Results**
 Brooklyn and Queens are two well-known neighbors of NYC. (Fig 1). Because of their
