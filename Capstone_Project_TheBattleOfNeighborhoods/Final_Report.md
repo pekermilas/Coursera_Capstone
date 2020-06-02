@@ -10,16 +10,19 @@ high rental prices, scarcity in parking places and many other elements of the
 city. This is why two boroughs of NYC, namely Brooklyn and Queens are gaining
 popularity as alternative residential areas among newcomers to NYC.[1],[3]
 
-Both of these boroughs are known to offer relatively lower rental prices and 
-efficient enough transportation to Manhattan. They are also famous for having
-highly diverse multicultural environments, offering their residents spectacular 
-views of the iconic skyline of NYC, and a colorful social life with dining places
-and nightlife. [1],[2]
+There are many magazine articles about the comparison of these two boroughs 
+for the movers. According to these articles Queens and Brooklyn both offer 
+relatively lower rental prices and efficient enough transportation to Manhattan. 
+They are also wll known to have highly diverse multicultural environments, 
+providing their residents spectacular views of the iconic skyline of NYC, and a 
+colorful social life with dining places and nightlife. [1],[2]
 
-Although there are many magazine articles about the comparison of these two boroughs
-of NYC, finding a quantitative comparison is very hard to find. Threfore, my project
-will be a quantitative comparison of the two areas in terms of venue types and 
-their quantities.
+Although summaries of essential features of Queens and Brooklyn and reports 
+pointing out their qualitative similarities are very common, a quantitative 
+comparison of these boroughs is not easy to find. Therefore, I would like to 
+provide a relatively straightforward quantitative comparison of Brooklyn and 
+Queens. To keep it simple, I will essentially analyze food, arts & entertainment,
+and college & university venues. 
 
 
 [1] https://metropolismoving.com/blog/brooklyn-vs-queens/
@@ -31,19 +34,23 @@ their quantities.
 
 ## **Data and Usage**
 
-- The project starts with the comparison of venues categorized under 'Food' section of 
-foursquare data. By analyzing the food venues data, I intend to infer about following 
-features of communities occupying these boroughs;
+- Food is what we need for living. We prefer some tastes to others, so what we choose 
+to eat tells a lot about our social identity. Therefore, by the analysis of food venues
+I intend to infer about; 
 
-    1. **Diversity:** Variety of food venue origins in terms of their cuisine (i.e. African
-    restaurant, Chines restaurant, etc.), indicate the diversity of the resident community.
-    Therefore, segmentation of food venue types can provide a reasonable measure for
-    comparing the diversity levels of Brooklyn and Queens.
-
-    2. **Pace of Life:** Type of food venues in terms of their actual physical structure (i.e. 
-    restaurant, food track, etc.) may indicate the life style of residents in the area. 
-    At a relatively slow pace area one can expect to have more restaurants/cafes than 
-    pizza places or food trucks. 
+    1. **Diversity among residents:** Although in multicultural societies, people tend
+    to taste various cousins, essential demand for a particular cousin is originated
+    from the people who borned at the birth place of the cousin. For example, Chinese
+    food may be tasty and interesting to try for a European descendant, but eventually the
+    diet of this person is mostly from European food. In other words, I believe I can
+    tell about residents' origins in Queens and Brooklyn by analysing frequencies of
+    cousins in corresponding areas.
+    
+    2. **Pace of life:** Fast food is a mark in diet for highly mobile and fast pace
+    societies. Likewise, the ratio of number of restaurants to the other food locations
+    such as food carts or pizza places, is an indicator of the community's life pace.
+    As a result, I believe I can infer about relative pace in Brooklyn and Queens.
+    
 
 - Next comparison will be among venues categorized under 'Art and Entartainment' section 
 of foursquare data. By analyzing the venues data, I intend to infer about availability 
