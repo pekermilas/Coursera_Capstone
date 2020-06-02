@@ -77,18 +77,33 @@ Queens neighborhoods (red circles).*
     4. In Queens, number of restaurants are very close to the number of non-restaurant
     type food venues (pizza places, food carts, etc.). (Fig 3)
     5. In Brooklyn, there are more non-restaurant type food venues than restaurants. (Fig 3)
-    
+
+![CousinsOfQueensAndBrooklyn](CousinsOfQueensAndBrooklyn.png)
+*Fig 2. Most common restaurants by their cousins found in Brooklyn
+and in Queens.*
+
+![FoodVenueTypesOfQueensAndBrooklyn](FoodVenueTypesOfQueensAndBrooklyn.png)
+*Fig 3. Comparison of types of food venues found in Brooklyn and Queens.*
+
 ### Analysis of Arts & Entertainment Venues
     1. Number of Arts and Entertainment venues are much higher in Brooklyn than Queens (106 vs 30). (Fig 4)
     2. While Brooklyn is offering a variety of classic arts based venues such as art galleries
     and concert halls, Queens is mostly offering social gathering places for entertainment such
     as bowling alleys and performing arts venues. (Fig 4)
 
+![ArtPlacesOfQueensAndBrooklyn](ArtPlacesOfQueensAndBrooklyn.png)
+*Fig 4. Comparison of Arts and Entertainment venues found in Brooklyn and Queens.*
+
 ### Analysis of Higher Education Venues
     1. Number of Education venues in Brooklyn are much highre the number in Queens (54 vs 21). (Fig 5)
     2. Most of the Higher Education venues in Brooklyn are affliated either with a university
     or with a college while ones in Queens half of the venues are not affliated with any 
     university of college. (Fig 5)
+
+![EducationPlacesOfQueensAndBrooklyn](EducationPlacesOfQueensAndBrooklyn.png)
+*Fig 5. Comparison of Higher Education venues found in Brooklyn and Queens.*
+
+## **Interpretation of Results and Discussion**
 
 [1] https://github.com/pekermilas/Coursera_Capstone/blob/master/Capstone_Project_TheBattleOfNeighborhoods/Introduction.md
 [2] https://github.com/pekermilas/Coursera_Capstone/blob/master/Capstone_Project_TheBattleOfNeighborhoods/NYC_Map.png
